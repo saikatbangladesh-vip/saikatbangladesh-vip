@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Saikat%20Bangladesh&fontSize=60&fontAlignY=45&animation=twinkling&fontColor=ffffff" width="100%"/>
 </div>
 
+<div align="center">
+  <img width="100%" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
+</div>
+
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
   Welcome to my GitHub Profile!
