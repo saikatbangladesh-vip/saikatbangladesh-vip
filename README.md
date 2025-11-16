@@ -1,7 +1,8 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Saikat%20Bangladesh&fontSize=60&fontAlignY=40&animation=twinkling&fontColor=fff&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Cloud%20Expert&descSize=20&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Saikat%20Bangladesh&fontSize=60&fontAlignY=40&animation=twinkling&fontColor=fff&desc=Intelligent%20%7C%20Krodhpoti%20%7C%20Romeo%20%7C%20Samajshebok&descSize=20&descAlignY=60" width="100%"/>
 </div>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -79,7 +80,7 @@
   <table>
     <tr>
       <td align="center" width="50%" style="padding: 30px; border-radius: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
-        <h2 style="color: white;">👨‍💻 Who Am I?</h2>
+        <h2 style="color: white;">Who Am I?</h2>
         <p align="left" style="color: white; font-size: 15px; line-height: 2;">
         • 🎓 <strong>Passionate Developer</strong> from Bangladesh<br>
         • 💼 Full Stack Developer & AI Enthusiast<br>
@@ -90,7 +91,7 @@
       </td>
       <td width="20px"></td>
       <td align="center" width="50%" style="padding: 30px; border-radius: 15px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);">
-        <h2 style="color: white;">🚀 My Mission</h2>
+        <h2 style="color: white;">My Mission</h2>
         <p align="left" style="color: white; font-size: 15px; line-height: 2;">
         • 🌟 Create <strong>innovative solutions</strong> for real problems<br>
         • 🤝 Contribute to <strong>open-source</strong> community<br>
@@ -114,14 +115,14 @@
   Core Expertise & Skills
 </h2>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700">
   <br><br>
 <div align="center">
   <table>
     <tr>
       <td align="center" width="30%" style="padding: 25px; border: 2px solid #667eea; border-radius: 20px; background: linear-gradient(135deg, #1a1b27 0%, #2d1b69 100%); box-shadow: 0 8px 16px rgba(102, 126, 234, 0.3);">
         <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" />
-        <h2 style="color: #667eea; margin: 15px 0;">🌐 Full Stack</h2>
+        <h2 style="color: #667eea; margin: 15px 0;">Full Stack</h2>
         <p align="left" style="color: #ffffff; font-size: 14px; line-height: 1.8;">
         ✓ Modern web applications<br>
         ✓ RESTful & GraphQL APIs<br>
@@ -133,7 +134,7 @@
       <td width="5%"></td>
       <td align="center" width="30%" style="padding: 25px; border: 2px solid #f093fb; border-radius: 20px; background: linear-gradient(135deg, #1a1b27 0%, #69174d 100%); box-shadow: 0 8px 16px rgba(240, 147, 251, 0.3);">
         <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" />
-        <h2 style="color: #f093fb; margin: 15px 0;">🤖 AI & ML</h2>
+        <h2 style="color: #f093fb; margin: 15px 0;">AI & ML</h2>
         <p align="left" style="color: #ffffff; font-size: 14px; line-height: 1.8;">
         ✓ Deep learning models<br>
         ✓ Computer vision projects<br>
@@ -144,8 +145,8 @@
       </td>
       <td width="5%"></td>
       <td align="center" width="30%" style="padding: 25px; border: 2px solid #4facfe; border-radius: 20px; background: linear-gradient(135deg, #1a1b27 0%, #1b4d69 100%); box-shadow: 0 8px 16px rgba(79, 172, 254, 0.3);">
-        <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100" />
-        <h2 style="color: #4facfe; margin: 15px 0;">☁️ DevOps</h2>
+        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" />
+        <h2 style="color: #4facfe; margin: 15px 0;">DevOps</h2>
         <p align="left" style="color: #ffffff; font-size: 14px; line-height: 1.8;">
         ✓ Cloud infrastructure (AWS/GCP)<br>
         ✓ Docker containerization<br>
@@ -170,7 +171,7 @@
 </h2>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700">
   <br><br>
   <table style="max-width: 800px;">
     <tr>
@@ -206,7 +207,7 @@
 <div align="center">
   <h2 style="margin-bottom: 30px;">Fun Facts About Me</h2>
   <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700">
   <br><br>
   <table>
     <tr>
@@ -265,7 +266,7 @@
 </h2>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700">
   <br><br>
 
 <div align="center">
@@ -273,7 +274,7 @@
     <tr>
       <td align="center" width="48%" style="padding: 30px; border: 3px solid #667eea; border-radius: 25px; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%); box-shadow: 0 10px 30px rgba(102, 126, 234, 0.4);">
         <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-        <h2 style="color: #667eea; margin: 20px 0;">🚀 Currently Working On</h2>
+        <h2 style="color: #667eea; margin: 20px 0;">Currently Working On</h2>
         <p align="left" style="font-size: 15px; line-height: 2.2; color: #e0e0e0;">
         🔥 Building AI-powered applications<br>
         ☁️ Exploring cloud-native architectures<br>
@@ -284,7 +285,7 @@
       <td width="4%"></td>
       <td align="center" width="48%" style="padding: 30px; border: 3px solid #f093fb; border-radius: 25px; background: linear-gradient(135deg, rgba(240, 147, 251, 0.1) 0%, rgba(245, 87, 108, 0.1) 100%); box-shadow: 0 10px 30px rgba(240, 147, 251, 0.4);">
         <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-        <h2 style="color: #f093fb; margin: 20px 0;">💡 Always Open To</h2>
+        <h2 style="color: #f093fb; margin: 20px 0;">Always Open To</h2>
         <p align="left" style="font-size: 15px; line-height: 2.2; color: #e0e0e0;">
         🤝 Collaborating on innovative projects<br>
         🚀 Learning new technologies<br>
@@ -438,7 +439,7 @@
         <br><strong>Star my repos</strong>
       </td>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40" />
+        <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40" />
         <br><strong>Fork & contribute</strong>
       </td>
       <td align="center">
@@ -476,25 +477,25 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/saikatbangladesh-vip/project-1">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saikatbangladesh-vip&repo=project-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=ffffff" />
+        <a href="https://github.com/saikatbangladesh-vip/rahigaming">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saikatbangladesh-vip&repo=rahigaming&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=ffffff" />
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/saikatbangladesh-vip/project-2">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saikatbangladesh-vip&repo=project-2&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=ffffff" />
+        <a href="https://github.com/saikatbangladesh-vip/techreview">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saikatbangladesh-vip&repo=techreview&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=ffffff" />
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/saikatbangladesh-vip/project-3">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saikatbangladesh-vip&repo=project-3&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=ffffff" />
+        <a href="https://github.com/saikatbangladesh-vip/youtubeseotools">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saikatbangladesh-vip&repo=youtubeseotools&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=ffffff" />
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/saikatbangladesh-vip/project-4">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saikatbangladesh-vip&repo=project-4&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=ffffff" />
+        <a href="https://github.com/saikatbangladesh-vip/biolinkpage">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saikatbangladesh-vip&repo=biolinkpage&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=ffffff" />
         </a>
       </td>
     </tr>
@@ -525,7 +526,7 @@
     <tr>
       <td align="center" width="48%" style="padding: 35px; border: 3px dashed #667eea; border-radius: 30px; background: linear-gradient(135deg, rgba(102, 126, 234, 0.15) 0%, rgba(118, 75, 162, 0.15) 100%); box-shadow: 0 15px 35px rgba(102, 126, 234, 0.5);">
         <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="100" />
-        <h2 style="color: #667eea; margin: 20px 0; text-shadow: 0 0 10px rgba(102, 126, 234, 0.5);">🚀 Technical Milestones</h2>
+        <h2 style="color: #667eea; margin: 20px 0; text-shadow: 0 0 10px rgba(102, 126, 234, 0.5);">Technical Milestones</h2>
         <p align="left" style="font-size: 15px; line-height: 2.2; color: #ffffff;">
         🎯 Master advanced system design patterns<br>
         🚀 Build and deploy 5+ production-ready projects<br>
@@ -537,7 +538,7 @@
       <td width="4%"></td>
       <td align="center" width="48%" style="padding: 35px; border: 3px dashed #f093fb; border-radius: 30px; background: linear-gradient(135deg, rgba(240, 147, 251, 0.15) 0%, rgba(245, 87, 108, 0.15) 100%); box-shadow: 0 15px 35px rgba(240, 147, 251, 0.5);">
         <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="100" />
-        <h2 style="color: #f093fb; margin: 20px 0; text-shadow: 0 0 10px rgba(240, 147, 251, 0.5);">🌱 Personal Development</h2>
+        <h2 style="color: #f093fb; margin: 20px 0; text-shadow: 0 0 10px rgba(240, 147, 251, 0.5);">Personal Development</h2>
         <p align="left" style="font-size: 15px; line-height: 2.2; color: #ffffff;">
         ✍️ Write technical blogs & tutorials<br>
         🤝 Mentor aspiring developers<br>
@@ -570,7 +571,7 @@
       </td>
       <td width="2%"></td>
       <td align="center" width="23%" style="padding: 25px; border-radius: 20px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); box-shadow: 0 10px 20px rgba(79, 172, 254, 0.6);">
-        <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="70" />
+        <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="70" />
         <br><h2 style="color: white; margin: 15px 0;">10K+</h2>
         <p style="color: white; font-size: 14px; margin: 0;">Lines of Code</p>
       </td>
@@ -597,28 +598,25 @@
 
 <div align="center">
 
-<a href="#" target="_blank">
+<a href="https://www.youtube.com/channel/UC9MLcV4rc3kYV0LVoVhwtDA?sub_confirmation=1" target="_blank">
   <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
 </a>
-<a href="#" target="_blank">
+<a href="https://facebook.com/saikatbangladeshi" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook" />
 </a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
-</a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="WhatsApp" />
-</a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Telegram" />
-</a>
-<a href="#" target="_blank">
+<a href="https://instagram.com/saikatbangladesh" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
 </a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X (Twitter)" />
+<a href="https://whatsapp.com/channel/0029VbBWWoz7oQhhWBe4v40X" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="WhatsApp" />
 </a>
-<a href="#" target="_blank">
+<a href="https://t.me/saikatbangladesh" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Telegram" />
+</a>
+<a href="https://dsc.gg/saikatbangladesh" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
+</a>
+<a href="https://github.com/saikatbangladesh-vip" target="_blank">
   <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub" />
 </a>
 
@@ -637,7 +635,7 @@
 
 **Ready to collaborate on something amazing? Let's build the future together!**
 
-<a href="#" target="_blank">
+<a href="[#](https://buymeacoffee.com/saikatbangladesh)" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
 </a>
 
