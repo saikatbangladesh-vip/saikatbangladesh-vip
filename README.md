@@ -477,24 +477,24 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/saikatbangladesh-vip/rahigaming">
+        <a href="https://github.com/saikatbangladesh-vip/resham-cricketer">
           <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saikatbangladesh-vip&repo=rahigaming&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=ffffff" />
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/saikatbangladesh-vip/techreview">
+        <a href="https://github.com/saikatbangladesh-vip/youtube-seo-tools">
           <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saikatbangladesh-vip&repo=techreview&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=ffffff" />
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/saikatbangladesh-vip/youtubeseotools">
+        <a href="https://github.com/saikatbangladesh-vip/tech-review">
           <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saikatbangladesh-vip&repo=youtubeseotools&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=ffffff" />
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/saikatbangladesh-vip/biolinkpage">
+        <a href="https://github.com/saikatbangladesh-vip/rahigaming-site">
           <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saikatbangladesh-vip&repo=biolinkpage&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=ffffff" />
         </a>
       </td>
